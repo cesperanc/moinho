@@ -10,10 +10,10 @@ Tecnologicamente é uma solução baseada em Java onde foi adicionada uma camada
 
 # Screenshots #
 ## Interface principal da aplicação ##
-<img src='http://moinho.googlecode.com/svn/wiki/images/interface.jpg' alt='Imagem da interface principal' />
+![](https://github.com/cesperanc/moinho/raw/wiki/images/interface.jpg)
 
 ## Coeficientes das funções de avaliação ##
-<img src='http://moinho.googlecode.com/svn/wiki/images/coeficientes.jpg' alt='Imagem dos coeficientes' />
+![](https://github.com/cesperanc/moinho/raw/wiki/images/coeficientes.jpg)
 
 ## Interface de treino de jogadores ##
-<img src='http://moinho.googlecode.com/svn/wiki/images/modo_treino.jpg' alt='Imagem da interface de treino de jogadores' />
+![](https://github.com/cesperanc/moinho/raw/wiki/images/modo_treino.jpg)
